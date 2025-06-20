@@ -4,7 +4,8 @@
 
 Beige and Gray Simplified Professional Portrait University Research Poster.png é nosso poster.
 
-PaperMT.pdf é o relatório em formato de artigo.
+## 📝 Publicações Relacionadas
+- [Artigo Completo (PDF)](https://www.overleaf.com/read/vgwpqmbqyccw#8b74de)
 
 ### Análise Inicial da Base de Dados
 
