@@ -1,4 +1,4 @@
-# Classificação de Áreas de Conhecimento de Questões do ENEM
+# Classificação de Áreas de Conhecimento de Questões do ENEM utilizando computação evolutiva
 
 ## Grupo: Apolo Albuquerque, Irlan Andrade, Vinícius Pessoa
 
